@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254736325613",
+    "project_id": "career-hive-d5b37",
+    "storage_bucket": "career-hive-d5b37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254736325613:android:a28f082d3262adeaeb25e4",
+        "android_client_info": {
+          "package_name": "com.career_hive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrp9ls_G3D1-7ngT6v--Rk2JQO-jJfXqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
